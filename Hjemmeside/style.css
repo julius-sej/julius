@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #e92424;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+p1 {
+    font-family: "Times New Roman", Times, serif;
+color: aqua;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+section {
+    background-color: #e0e0e0; /* Lys grå farve */
+    padding: 20px; /* Tilføjer lidt afstand inden i sektionen */
+    margin: 10px 0; /* Tilføjer afstand mellem sektionerne */
+    border-radius: 8px; /* Gør hjørnerne lidt runde */
+}
